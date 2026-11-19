@@ -116,3 +116,4 @@ function setupLeaveRejoin(bot, createBot) {
 }
 
 module.exports = setupLeaveRejoin
+rejoin
